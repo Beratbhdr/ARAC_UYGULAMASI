@@ -1,0 +1,8 @@
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\bin\Debug\AraçSorusuProjesi.exe.config
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\bin\Debug\AraçSorusuProjesi.exe
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\bin\Debug\AraçSorusuProjesi.pdb
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\obj\Debug\AraçSorusuProjesi.csproj.AssemblyReference.cache
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\obj\Debug\AraçSorusuProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\obj\Debug\AraçSorusuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\obj\Debug\AraçSorusuProjesi.exe
+C:\Users\berat\source\repos\AraçSorusuProjesi\AraçSorusuProjesi\obj\Debug\AraçSorusuProjesi.pdb
